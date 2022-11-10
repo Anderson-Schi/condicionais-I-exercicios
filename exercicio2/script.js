@@ -13,7 +13,7 @@ function dados(){
     }else{
         console.log("A pessoa nao terminou o ensino medio");
     };
-    if(isNotCursandoOutraFaculdade = true){
+    if(isNotCursandoOutraFaculdade === false){
         console.log("A pessoa nao esta cursando uma faculdade");
     }else{
         console.log("A pessoa esta cursando outra faculdade");
